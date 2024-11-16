@@ -271,7 +271,9 @@ button{
     width: 300px;
 }
 
-
+.problema{
+    width: 100%;
+}
 
 .second-row div{
     background-color: var(--hoverlogo);
@@ -312,23 +314,9 @@ button{
     }
     .header{
         background-color: var(--header);
-        padding-bottom: 170px;
-    }
-    .linkuri{
-        position: absolute;
-       margin-top: 280px;
-       padding-top: 30px;
-       padding-bottom: 20px;
-       left:10px;
-
     }
     .logo{
-        position:absolute;
         align-items: center;
-        margin-top: 50px;
-        border-radius: 0;
-        margin-right: 100%;
-        z-index: 1;
     }
     .contactbtn{
         position:absolute;
@@ -532,6 +520,7 @@ button{
     left: 0;
     right: 0;
     align-items: center;
+    width: 100%;
 
 }
 #galerie img{
