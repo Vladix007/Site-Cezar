@@ -244,7 +244,9 @@ button{
 
 
 
-
+a {
+    word-wrap: break-word;
+}
 
 .first-row{
     display: flex;
